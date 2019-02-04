@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Repo</string>
+    <string name="search">Search</string>
+    <string name="kotlin_repo">Kotlin Repo</string>
+    <string name="ex_kotlin_repo">ex. Kotlin Repo</string>
+    <string name="project_name">Project Name</string>
+</resources>
